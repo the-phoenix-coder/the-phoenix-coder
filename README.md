@@ -20,7 +20,7 @@ which i would love to use it in new role as a Junior Front-end Web Developer.
 <hr/>
 
 ### Languages and Tools
-
+<div>
 <img align="left" alt="HTML5" width="26px"
      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
@@ -38,12 +38,16 @@ which i would love to use it in new role as a Junior Front-end Web Developer.
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+</div>
+
 <br />
 <hr/>
 
 ### GitHub Stats
   <img align="left" alt="Ahmed's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=the-phoenix-coder&show_icons=true&hide_border=true" />
-  
+
+<br />
+
 ### Most Used Languages
 
 <img align="left" alt="Ahmed's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-phoenix-coder" />
