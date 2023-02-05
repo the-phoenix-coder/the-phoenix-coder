@@ -1,6 +1,6 @@
 # Ahmed Hesham
 
-**`Junior Front End Developer | Active Learner | Team Player`**
+**`Junior Front End Developer (React) | Active Learner`**
 
 I'm an Egyptian Front-end Developer who's like building new Projects and solve problems using my code knowledge
 which i would love to use it in new role as a Junior Front-end Web Developer.
