@@ -41,3 +41,17 @@ which i would love to use it in new role as a Junior Front-end Web Developer.
 
   <img align="left" alt="GitHub" width="26px"         src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 </div>
+
+
+<br />
+<br />
+<hr/>
+<br />
+
+
+### Status
+<div>
+  <img align='left' src="https://github-readme-stats.vercel.app/api?username=the-phoenix-coder&show_icons=true" />
+  
+  <img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-phoenix-coder&theme=blue-green" />
+</div>
