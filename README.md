@@ -11,9 +11,6 @@ which i would love to use it in new role as a Junior Front-end Web Developer.
   <a href="https://www.linkedin.com/in/thephoenixcoder">
     <img align="left" alt="linkedin" width="22px" src="https://img.icons8.com/color/2x/linkedin-2.png" />
   </a>
-  <a href="https://www.twitter.com/thphoenixcoder">
-    <img align="left" alt="linkedin" width="22px" src="https://img.icons8.com/color/2x/twitter.png" />
-  </a>
 </div>
 
 <br />
