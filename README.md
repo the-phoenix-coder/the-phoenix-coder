@@ -32,11 +32,11 @@ I focus on delivering high-quality web development that ensures smooth user expe
 
   <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
   <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
+<!--
   <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-
+  
   <img width="26px" align='left' alt='sass' src="https://img.icons8.com/color/2x/sass.png" />
-
+-->
   <img width='26px' align='left' alt='bootstrap' src='https://img.icons8.com/external-those-icons-flat-those-icons/344/external-Bootstrap-Logo-social-media-those-icons-flat-those-icons.png' />
 
   <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
